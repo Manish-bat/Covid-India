@@ -1,6 +1,7 @@
 {
   "name": "covid-19",
   "version": "0.1.0",
+  "proxy": "https://blooming-temple-19823.herokuapp.com",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.30",
@@ -45,5 +46,4 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://blooming-temple-19823.herokuapp.com"
 }
